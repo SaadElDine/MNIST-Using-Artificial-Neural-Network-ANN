@@ -31,12 +31,14 @@ Data augmentation is applied to the training set using the `ImageDataGenerator` 
 ## Evaluation
 
 The model is evaluated on the test set using the `evaluate` method. The accuracy achieved on the test set is 99%.
+
 ![image](https://github.com/SaadElDine/MNIST-Using-Artificial-Neural-Network-ANN/assets/113860522/478933bd-bfe7-4cb9-9153-f91fa4611b43)
 
 
 ## Prediction
 
 The model can be used to make predictions on new images. Users can upload an image of a handwritten digit, and the model will predict the digit using the uploaded image.
+
 ![image](https://github.com/SaadElDine/MNIST-Using-Artificial-Neural-Network-ANN/assets/113860522/209f94d7-ddee-4ee2-bb80-e5163bdb1c43)
 
 
